@@ -12,7 +12,7 @@
 - A wishlist management system that enables users to curate a list of their favorite films, allowing for convenient tracking and future viewing plans.  
 - Curated lists aimed at promoting greater interactivity among users, fostering a community atmosphere through shared interests.  
 
-**INTENDED AUDIENCE:** \ 
+**INTENDED AUDIENCE:** 
 - The primary target audience consists of dedicated film enthusiasts who have a passion for cinema and film culture.  
 - Individuals actively seeking trustworthy recommendations to expand their film-watching repertoire will also be a major focus.  
 
